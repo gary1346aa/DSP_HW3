@@ -73,7 +73,7 @@ Pure Image cropping
 
 ### Image : Soeul
 Original Image
-<img src="Soeul.jpeg" width="96%"/> 
+<img src="soeul.jpeg" width="96%"/> 
 Vertical seam carving 
 <img src="soeul2.jpg"  width="96%"/>
 Horizontal seam carving
@@ -85,7 +85,7 @@ Pure Image cropping
 
 ### Image : Shanghai
 Original Image
-<img src="Shanghai.jpeg" width="96%"/> 
+<img src="shanghai.jpeg" width="96%"/> 
 Vertical seam carving 
 <img src="shanghai2.jpg"  width="96%"/>
 Horizontal seam carving
