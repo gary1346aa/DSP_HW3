@@ -1,7 +1,5 @@
 
-# 黃琮耀 103000002 <span style="color:red">
-
-# Project 3 / Seam Carving for Content-Aware Image Resizing
+## Seam Carving for Content-Aware Image Resizing
 
 ## Overview
 In this project we're going to scale/crop images using seam carving method. The main idea of this method is to delete the pixels that are not really import, so we can crop our image without losing it's integrity. First we calculate the energy value of every pixels, then 
