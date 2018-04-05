@@ -93,7 +93,7 @@ Horizontal seam carving
 Pure Image scaling
 <img src="shanghai4.jpg" width="96%"/>
 Pure Image cropping
-<img src="shanghai  5.jpg" width="96%"/>
+<img src="shanghai5.jpg" width="96%"/>
 
 ## Discussion & Conclusion
 We compared both seam version of cropped image and pure cropped image, the seam version looks more meaningful, containing more details 
